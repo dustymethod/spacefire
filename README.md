@@ -1,5 +1,8 @@
 # spacefire
 
+Description:
+Game project done in Processing.
+
 Instructions (Processing):
 
 	1) Download Processing:
