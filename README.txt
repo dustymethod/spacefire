@@ -1,7 +1,7 @@
 
 Game project done for a class.
 
-Instructions (Processing):
+Instructions:
 
 	1) Download Processing:
 	https://processing.org/
