@@ -1,7 +1,7 @@
 # spacefire
 
-Description:
-Game project done in Processing.
+
+Game project done in Processing for a class.
 
 Instructions (Processing):
 
