@@ -1,5 +1,3 @@
-# spacefire
-
 
 Game project done for a class.
 
