@@ -1,6 +1,3 @@
-
-Game project done for a class.
-
 Instructions:
 
 	1) Download Processing:
@@ -21,3 +18,5 @@ Controls: (RMB for in-game instructions at start.)
 	-Goal: Put out all the fires, then land back safely to finish the level.
 		-Water and fuel will deplete over use and time.
 		-Fires and squares will deal damage.
+
+Game project done for a class.
