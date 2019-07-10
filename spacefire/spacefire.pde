@@ -1,5 +1,3 @@
-//SCIE204M2_AmandaChan_a3_v37
-//Amanda Chan
 //nov_05_2015
 //
 //player,  enemies hud, enemies,
