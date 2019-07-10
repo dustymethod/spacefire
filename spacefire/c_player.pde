@@ -203,7 +203,6 @@ class Player {
 		}
 		if (fireCount<=0 && isOverLaunchPad) {
 			stroke(lakeColor);
-			println("stroke");
 		}
 
 		//Ship fill
